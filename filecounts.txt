@@ -1,0 +1,23 @@
+
+./augmented_dataset/down             1188
+./augmented_dataset/go                960
+./augmented_dataset/left             1485
+./augmented_dataset/no                957
+./augmented_dataset/off              2244
+./augmented_dataset/on               2228
+./augmented_dataset/right            1276
+./augmented_dataset/stop             1485
+./augmented_dataset/up               1187
+./augmented_dataset/yes              1244
+./augmented_dataset_verynoisy/down   1188
+./augmented_dataset_verynoisy/go      960
+./augmented_dataset_verynoisy/happy  1481
+./augmented_dataset_verynoisy/left   1485
+./augmented_dataset_verynoisy/no      957
+./augmented_dataset_verynoisy/off    2244
+./augmented_dataset_verynoisy/on     2228
+./augmented_dataset_verynoisy/right  1276
+./augmented_dataset_verynoisy/stop   1485
+./augmented_dataset_verynoisy/up     1187
+./augmented_dataset_verynoisy/yes    1244
+
